@@ -1,0 +1,19 @@
+{
+	"name": "@cubitworx/angular-dsi-meteor",
+	"version": "0.1.0",
+	"license": "UNLICENSED",
+	"description": "Angular-Meteor datasource abtraction built around rxjs",
+	"module": "./src",
+	"typings": "./src",
+	"scripts": {},
+	"author": "Charles Louw <charles.louw@gmail.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cubitworx/angular-dsi-meteor.git"
+	},
+	"dependencies": {
+		"@angular/core": "^4.0.2",
+		"lodash": "^4.17.4",
+		"zone.js": "^0.8.5"
+	}
+}
